@@ -1,3 +1,8 @@
+## This is a personal project files of Jaehyuk Kim. 
+Not provided official purpose. 
+Will not support for the any trouble shooting. 
+You can edit and modify and use it.
+
 # RFPro FEM Automation for 3-Metal Layer Stripline
 
 This project provides a suite of Python scripts to automate the entire workflow from design to RFPro EM simulation for a 3-metal layer stripline structure using the **ADS 2025 Update2_1** Python API[cite: 9, 26].
