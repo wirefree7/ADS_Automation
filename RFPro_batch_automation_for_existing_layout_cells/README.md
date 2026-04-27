@@ -2,6 +2,9 @@ Jaehyuk Kim
 Aug. 28. 2025
 ADS Python API of RFPro Batch for Exisiting(Pre-designed) layout cells
 
+# Notice
+This is a personal project files of Jaehyuk Kim.
+Not provided official purpose. Will not support for the any trouble shooting. You can edit and modify and use it.
 
 # Assumptions and Preconditions
 
